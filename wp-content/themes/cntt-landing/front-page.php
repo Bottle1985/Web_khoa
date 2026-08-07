@@ -89,6 +89,25 @@ get_header();
         </div>
     </section>
 
+    <section id="cntt-bd">
+        <h2 class="section-title">Ngành Công nghệ thông tin và Bán dẫn</h2>
+        <p class="section-description">Công nghệ thông tin và bán dẫn tại TBD chú trọng đào tạo kiến thức kỹ thuật số, hệ thống máy tính, thiết kế chip và ứng dụng công nghệ lõi trong môi trường doanh nghiệp hiện đại.</p>
+        <div class="grid-3">
+            <div class="card">
+                <h3>Chương trình Công nghệ thông tin</h3>
+                <p>Giảng dạy công nghệ phần mềm, mạng máy tính, dữ liệu lớn và an toàn thông tin để sinh viên làm chủ công nghệ số.</p>
+            </div>
+            <div class="card">
+                <h3>Chương trình Bán dẫn</h3>
+                <p>Đào tạo kỹ sư bán dẫn với kiến thức về thiết kế mạch, sản xuất chip và công nghệ vi mạch.</p>
+            </div>
+            <div class="card">
+                <h3>Hợp tác doanh nghiệp</h3>
+                <p>Liên kết đối tác công nghệ, thực tập và dự án thực tế giúp sinh viên nhanh chóng thích ứng với môi trường sản xuất số.</p>
+            </div>
+        </div>
+    </section>
+
     <section>
         <h2 class="section-title">Tại sao chọn TBD?</h2>
         <p class="section-description">Khoa chú trọng học tập tương tác, đào tạo song song chuyên môn và kỹ năng mềm thông qua các dự án thực tế cùng doanh nghiệp.</p>

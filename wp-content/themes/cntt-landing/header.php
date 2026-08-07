@@ -15,6 +15,7 @@
                 <a href="#gioi-thieu">Giới thiệu</a>
                 <a href="#chuong-trinh">Chương trình</a>
                 <a href="#nganh-dao-tao">Ngành đào tạo</a>
+                <a href="#cntt-bd">CNTT & Bán dẫn</a>
                 <a href="#tin-tuc">Tin tức</a>
                 <a href="#lien-he">Liên hệ</a>
             </div>
@@ -25,6 +26,7 @@
                 <a href="#gioi-thieu">Giới thiệu</a>
                 <a href="#chuong-trinh">Chương trình</a>
                 <a href="#nganh-dao-tao">Ngành</a>
+                <a href="#cntt-bd">CNTT & Bán dẫn</a>
                 <a href="#tin-tuc">Tin tức</a>
                 <a class="button button-secondary" href="https://tbd.edu.vn/xet-tuyen">Đăng ký ngay</a>
             </nav>
