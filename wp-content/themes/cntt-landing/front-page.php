@@ -10,8 +10,8 @@ get_header();
         <div class="hero-grid">
             <div class="hero-copy">
                 <p style="text-transform: uppercase; letter-spacing: 0.18em; color: var(--accent); font-weight: 700; margin-bottom: 18px;">Trường Đại học Thái Bình Dương</p>
-                <h1>Khoa Kinh tế và Quản trị<br />Điểm đến của nhà lãnh đạo tương lai</h1>
-                <p>Chương trình đào tạo gắn kết doanh nghiệp, đội ngũ giảng viên hùng hậu và nhiều cơ hội thực tế giúp sinh viên phát triển toàn diện, tự tin hội nhập thị trường lao động.</p>
+                <h1>Khoa Công nghệ thông tin và Bán dẫn<br />Hành trình dẫn đầu nền công nghiệp số</h1>
+                <p>Chương trình đào tạo gắn kết doanh nghiệp, đội ngũ giảng viên chuyên sâu và nhiều cơ hội thực tế giúp sinh viên phát triển kỹ năng công nghệ cao, sẵn sàng hội nhập thị trường công nghệ.</p>
                 <div class="hero-actions">
                     <a class="button button-primary" href="#chuong-trinh">Xem các chương trình</a>
                     <a class="button button-secondary" href="#lien-he">Liên hệ tư vấn</a>
@@ -40,7 +40,7 @@ get_header();
 
     <section id="gioi-thieu">
         <h2 class="section-title">Giới thiệu</h2>
-        <p class="section-description">Khoa Kinh tế và Quản trị tự hào là nơi ươm mầm những nhà lãnh đạo kinh doanh tương lai. Chúng tôi kết hợp lý thuyết chuyên sâu với các dự án thực tế, giúp sinh viên xây dựng tư duy phản biện, kỹ năng giải quyết vấn đề và khả năng lãnh đạo.</p>
+        <p class="section-description">Khoa Công nghệ thông tin và Bán dẫn tự hào đào tạo những kỹ sư công nghệ số tương lai. Chúng tôi kết hợp lý thuyết chuyên sâu với dự án thực tế, giúp sinh viên phát triển kỹ năng lập trình, phân tích dữ liệu và giải pháp bán dẫn.</p>
         <div class="grid-3">
             <div class="card">
                 <h3>Tầm nhìn</h3>
@@ -59,7 +59,7 @@ get_header();
 
     <section id="chuong-trinh">
         <h2 class="section-title">Các chương trình đào tạo</h2>
-        <p class="section-description">Khoa cung cấp lộ trình học tập đa dạng, gắn kết doanh nghiệp và chuẩn bị cho sinh viên sẵn sàng làm việc trong môi trường năng động.</p>
+        <p class="section-description">Khoa CNTT & Bán dẫn cung cấp lộ trình học tập hiện đại, gắn kết doanh nghiệp và chuẩn bị sinh viên làm chủ công nghệ số và công nghiệp vi mạch.</p>
         <div class="grid-3">
             <div class="card">
                 <h3>Đại học Kinh tế</h3>

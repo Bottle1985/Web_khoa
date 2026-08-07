@@ -21,7 +21,7 @@
             </div>
         </div>
         <div class="nav-wrap">
-            <div class="brand">Khoa Kinh tế và Quản trị</div>
+            <div class="brand">Khoa Công nghệ thông tin và Bán dẫn</div>
             <nav>
                 <a href="#gioi-thieu">Giới thiệu</a>
                 <a href="#chuong-trinh">Chương trình</a>
