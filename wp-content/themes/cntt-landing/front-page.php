@@ -21,7 +21,7 @@ get_header();
                 <div class="hero-panel">
                     <div>
                         <h3>Đào tạo trọng điểm</h3>
-                        <p>Khối ngành Công nghệ Thông tin và Bán dẫn tại TBD cung cấp chương trình Đại học, Thạc sĩ và những ngành học phù hợp với xu hướng nghề nghiệp trong nước và quốc tế.</p>
+                        <p>Khối ngành Công nghệ Thông tin và Bán dẫn tại TBD cung cấp chương trình Đại học và những ngành học phù hợp với xu hướng nghề nghiệp trong nước và quốc tế.</p>
                     </div>
                     <div class="hero-stats">
                         <div class="hero-stat">
@@ -44,7 +44,7 @@ get_header();
         <div class="grid-3">
             <div class="card">
                 <h3>Tầm nhìn</h3>
-                <p>Trở thành địa chỉ đào tạo kinh tế - quản trị hàng đầu khu vực, cung cấp nhân lực chất lượng cao cho doanh nghiệp.</p>
+                <p>Trở thành đơn vị đào tạo và nghiên cứu uy tín trong lĩnh vực Công nghệ thông tin và Công nghệ bán dẫn, tiên phong trong đổi mới sáng tạo, hợp tác doanh nghiệp và hội nhập quốc tế, cung cấp nguồn nhân lực chất lượng cao đáp ứng nhu cầu phát triển của nền kinh tế số và ngành công nghiệp bán dẫn.</p>
             </div>
             <div class="card">
                 <h3>Sứ mệnh</h3>
@@ -62,17 +62,13 @@ get_header();
         <p class="section-description">Khoa CNTT & Bán dẫn cung cấp lộ trình học tập hiện đại, gắn kết doanh nghiệp và chuẩn bị sinh viên làm chủ công nghệ số và công nghiệp vi mạch.</p>
         <div class="grid-3">
             <div class="card">
-                <h3>Đại học Kinh tế</h3>
-                <p>Chương trình trang bị kiến thức nền tảng và kỹ năng thực tiễn để phát triển trong các lĩnh vực tài chính, kế toán, quản trị và marketing.</p>
+                <h3>Chương trình Đại học</h3>
+                <p>Chương trình Đại học giúp sinh viên phát triển toàn diện kiến thức chuyên môn, kỹ năng thực tiễn và tư duy sáng tạo trong lĩnh vực Công nghệ thông tin và Công nghệ bán dẫn, sẵn sàng làm việc, nghiên cứu và khởi nghiệp trong môi trường công nghệ toàn cầu.</p>
             </div>
             <div class="card">
-                <h3>Đại học Quản trị</h3>
-                <p>Đào tạo nhân lực có năng lực quản lý, hoạch định chiến lược và điều hành doanh nghiệp hiệu quả.</p>
-            </div>
-            <div class="card">
-                <h3>Thạc sĩ MBA</h3>
-                <p>Chương trình thạc sĩ ứng dụng, rút gọn 18 tháng, tập trung vào kỹ năng lãnh đạo và quản trị chiến lược.</p>
-            </div>
+                <h3>Chương trình chất lượng cao</h3>
+                <p>Chương trình Chất lượng cao ngành Công nghệ thông tin mang đến môi trường học tập hiện đại với chương trình đào tạo cập nhật, đội ngũ giảng viên giàu kinh nghiệm, tăng cường thực hành, ngoại ngữ và hợp tác doanh nghiệp. Sinh viên được trang bị kiến thức chuyên sâu, kỹ năng nghề nghiệp và tư duy sáng tạo để trở thành những kỹ sư công nghệ thông tin đáp ứng yêu cầu của thị trường lao động trong kỷ nguyên số.</p>
+            </div>         
         </div>
     </section>
 
