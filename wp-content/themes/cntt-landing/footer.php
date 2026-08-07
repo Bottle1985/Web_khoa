@@ -1,7 +1,7 @@
 <footer>
     <div class="container footer-grid">
         <div>
-            <h3>Khoa Kinh tế và Quản trị</h3>
+            <h3>Khoa Công nghệ Thông tin và Bán dẫn</h3>
             <p>Địa chỉ: 79 Mai Thị Dõng, Vĩnh Ngọc, Nha Trang, Khánh Hòa</p>
             <p>Hotline: <a href="tel:02583727147">(0258) 3727 147</a></p>
             <p>Email: <a href="mailto:khoa.ktqt@tbd.edu.vn">khoa.ktqt@tbd.edu.vn</a></p>
@@ -27,7 +27,7 @@
     </div>
     <div class="container footer-bottom">
         <div>© 2026 Trường Đại học Thái Bình Dương</div>
-        <div>Thiết kế bởi Khoa Kinh tế và Quản trị</div>
+        <div>Thiết kế bởi Khoa Công nghệ Thông tin và Bán dẫn</div>
     </div>
 </footer>
 <?php wp_footer(); ?>

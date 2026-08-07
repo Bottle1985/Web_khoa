@@ -21,7 +21,7 @@ get_header();
                 <div class="hero-panel">
                     <div>
                         <h3>Đào tạo trọng điểm</h3>
-                        <p>Khối ngành Kinh tế và Quản trị tại TBD cung cấp chương trình Đại học, Thạc sĩ và những ngành học phù hợp với xu hướng nghề nghiệp trong nước và quốc tế.</p>
+                        <p>Khối ngành Công nghệ Thông tin và Bán dẫn tại TBD cung cấp chương trình Đại học, Thạc sĩ và những ngành học phù hợp với xu hướng nghề nghiệp trong nước và quốc tế.</p>
                     </div>
                     <div class="hero-stats">
                         <div class="hero-stat">
@@ -120,7 +120,7 @@ get_header();
 
     <section id="tin-tuc">
         <h2 class="section-title">Tin hoạt động</h2>
-        <p class="section-description">Cập nhật hoạt động, sự kiện và thông báo mới nhất của Khoa Kinh tế và Quản trị.</p>
+        <p class="section-description">Cập nhật hoạt động, sự kiện và thông báo mới nhất của Khoa Công nghệ Thông tin và Bán dẫn.</p>
         <div class="card-list">
             <article class="news-card">
                 <time>22/07/2026</time>
@@ -130,7 +130,7 @@ get_header();
             <article class="news-card">
                 <time>18/07/2026</time>
                 <h4>Sinh viên TBD nhận gần 3 tỷ đồng học bổng và 4.000 cơ hội thực tập</h4>
-                <p>Khoa Kinh tế và Quản trị thúc đẩy hợp tác với doanh nghiệp để tạo cơ hội học tập và việc làm cho sinh viên.</p>
+                <p>Khoa Công nghệ Thông tin và Bán dẫn thúc đẩy hợp tác với doanh nghiệp để tạo cơ hội học tập và việc làm cho sinh viên.</p>
             </article>
             <article class="news-card">
                 <time>10/07/2026</time>
