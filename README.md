@@ -1,1 +1,1 @@
-# mobile
+# Web khoa CNTT & BD
