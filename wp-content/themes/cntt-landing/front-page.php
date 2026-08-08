@@ -74,14 +74,16 @@ get_header();
 
     <section id="nganh-dao-tao">
         <h2 class="section-title">Các ngành đào tạo</h2>
-        <p class="section-description">Khoa hiện đào tạo 5 ngành Đại học và 1 chương trình Thạc sĩ đáp ứng nhu cầu nghề nghiệp của sinh viên.</p>
+        <p class="section-description">Khoa hiện đào tạo 4 ngành Đại học đáp ứng nhu cầu nghề nghiệp của sinh viên.</p>
         <div class="feature-list">
-            <div class="feature-item"><strong>01</strong><div><h4>Kế toán</h4><p>Chương trình cung cấp kiến thức kế toán doanh nghiệp và phân tích tài chính.</p></div></div>
-            <div class="feature-item"><strong>02</strong><div><h4>Tài chính ngân hàng</h4><p>Đào tạo chuyên gia quản lý tài chính, phân tích đầu tư và ngân hàng hiện đại.</p></div></div>
-            <div class="feature-item"><strong>03</strong><div><h4>Quản trị kinh doanh</h4><p>Phát triển kỹ năng quản trị, marketing và lãnh đạo trong doanh nghiệp.</p></div></div>
-            <div class="feature-item"><strong>04</strong><div><h4>Marketing</h4><p>Định hướng tiếp thị sáng tạo, nghiên cứu thị trường và chiến lược digital.</p></div></div>
-            <div class="feature-item"><strong>05</strong><div><h4>Logistics & quản lý chuỗi cung ứng</h4><p>Trang bị năng lực điều phối giao thông, kho vận và chuỗi cung ứng hiệu quả.</p></div></div>
-            <div class="feature-item"><strong>06</strong><div><h4>Thạc sĩ Quản trị kinh doanh (MBA)</h4><p>Chương trình cao học đào tạo nhà quản lý nắm bắt xu hướng kinh doanh hiện đại.</p></div></div>
+            <div class="feature-item"><strong>01</strong><div><h4>Ngành Kỹ thuật phần mềm</h4><p>Ngành Kỹ thuật phần mềm đào tạo sinh viên kiến thức và kỹ năng về phân tích, thiết kế, phát triển, kiểm thử và bảo trì các hệ thống phần mềm. Sinh viên được trang bị nền tảng lập trình, cơ sở dữ liệu, phát triển Web/Mobile, trí tuệ nhân tạo, điện toán đám mây và DevOps, đồng thời rèn luyện tư duy sáng tạo, kỹ năng giải quyết vấn đề và làm việc nhóm. Sau khi tốt nghiệp, sinh viên có thể đảm nhận các vị trí như Software Developer, Web/Mobile Developer, Software Tester, Business Analyst, DevOps Engineer hoặc quản lý dự án phần mềm.</p></div></div>
+            <div class="feature-item"><strong>02</strong><div><h4>Ngành Công nghệ thông tin</h4><p>Đào tạo chuyên gia quản lý tài chính, phân tích đầu tư và ngân hàng hiện đại.</p></div></div>
+            <div class="feature-item"><strong>03</strong><div><h4>Ngành Trí tuệ nhân tạo</h4><p>Phát triển kỹ năng quản trị, marketing và lãnh đạo trong doanh nghiệp.</p></div></div>
+            <div class="feature-item"><strong>04</strong><div><h4>Ngành Kỹ thuật cơ điện tử</h4><p>Định hướng tiếp thị sáng tạo, nghiên cứu thị trường và chiến lược digital.</p></div></div>
+            <div class="feature-item"><strong>05</strong><div><h4>Chuyên ngành Công nghệ bán dẫn</h4><p>Trang bị năng lực điều phối giao thông, kho vận và chuỗi cung ứng hiệu quả.</p></div></div>
+            <div class="feature-item"><strong>06</strong><div><h4>Chuyên ngành Công nghệ phần mềm</h4><p>Chương trình cao học đào tạo nhà quản lý nắm bắt xu hướng kinh doanh hiện đại.</p></div></div>
+            <div class="feature-item"><strong>07</strong><div><h4>Chuyên ngành Mạng máy tính và an toàn thông tin</h4><p>Chương trình cao học đào tạo nhà quản lý nắm bắt xu hướng kinh doanh hiện đại.</p></div></div>
+        
         </div>
     </section>
 
