@@ -105,7 +105,7 @@ get_header();
             <div class="card">
                 <h3>Thông tin liên hệ</h3>
                 <p>Hotline: <a href="tel:02583727147">(0258) 3727 147</a></p>
-                <p>Email: <a href="mailto:khoa.ktqt@tbd.edu.vn">khoa.ktqt@tbd.edu.vn</a></p>
+                <p>Email: <a href="mailto:khoa.cntt@tbd.edu.vn">khoa.cntt@tbd.edu.vn</a></p>
                 <p>Địa chỉ: 79 Mai Thị Dõng, Vĩnh Ngọc, Nha Trang, Khánh Hòa</p>
             </div>
             <div class="card">
