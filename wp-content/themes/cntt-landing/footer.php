@@ -4,7 +4,7 @@
             <h3>Khoa Công nghệ Thông tin và Bán dẫn</h3>
             <p>Địa chỉ: 79 Mai Thị Dõng, Vĩnh Ngọc, Nha Trang, Khánh Hòa</p>
             <p>Hotline: <a href="tel:02583727147">(0258) 3727 147</a></p>
-            <p>Email: <a href="mailto:khoa.ktqt@tbd.edu.vn">khoa.ktqt@tbd.edu.vn</a></p>
+            <p>Email: <a href="mailto:khoa.cntt@tbd.edu.vn">khoa.cntt@tbd.edu.vn</a></p>
         </div>
         <div>
             <h3>Liên kết nhanh</h3>
