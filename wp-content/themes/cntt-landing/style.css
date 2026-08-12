@@ -1,6 +1,6 @@
 /*
-Theme Name: CNTT & Bán dẫn Landing
-Theme URI: https://ktqt.tbd.edu.vn/
+Theme Name: Khoa Công nghệ thông tin và Bán dẫn
+Theme URI: https://cntt.tbd.edu.vn/
 Author: Trường Đại học Thái Bình Dương
 Author URI: https://tbd.edu.vn/
 Description: Landing page theme cho Khoa Công nghệ thông tin và Bán dẫn.
@@ -314,51 +314,63 @@ section + section {
     font-size: 1.05rem;
 }
 
-.team-grid {
-    display: grid;
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-    gap: 28px;
+#doi-ngu {
+    background: linear-gradient(180deg, #0a247a 0%, #0b2d8c 100%);
+    color: #fff;
 }
 
-.team-card {
-    background: var(--surface);
-    border-radius: 32px;
-    padding: 30px 22px 24px;
-    box-shadow: 0 20px 60px rgba(15, 23, 42, 0.08);
+#doi-ngu .section-title,
+#doi-ngu .section-description {
+    color: #fff;
+}
+
+#doi-ngu .team-grid {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(160px, 1fr));
+    gap: 22px;
+    align-items: start;
+}
+
+#doi-ngu .team-card {
+    min-width: 0;
+    background: transparent;
+    border-radius: 0;
+    padding: 0;
+    box-shadow: none;
     text-align: center;
 }
 
-.avatar-wrapper {
-    width: 220px;
-    height: 220px;
+#doi-ngu .avatar-wrapper {
+    width: clamp(150px, 12vw, 220px);
+    height: clamp(150px, 12vw, 220px);
     margin: 0 auto 20px;
-    padding: 8px;
+    padding: 10px;
     border-radius: 50%;
-    background: linear-gradient(180deg, rgba(255,255,255,0.8), rgba(217,234,255,0.9));
+    background: rgba(184, 211, 255, 0.9);
     display: grid;
     place-items: center;
-    box-shadow: inset 0 0 0 6px rgba(240,245,255,0.95);
+    box-shadow: inset 0 0 0 4px rgba(255, 255, 255, 0.9);
 }
 
-.avatar-wrapper img {
+#doi-ngu .avatar-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    border: 6px solid #eef5ff;
+    border: 4px solid rgba(255, 255, 255, 0.7);
 }
 
-.team-card h4 {
-    margin: 0 0 10px;
-    font-size: 1rem;
-    color: var(--primary);
-    text-transform: uppercase;
-    line-height: 1.3;
-}
-
-.team-card p {
+#doi-ngu .team-card h4 {
     margin: 0;
-    color: var(--text-muted);
+    font-size: clamp(1.1rem, 1.2vw, 1.55rem);
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 1.35;
+    letter-spacing: -0.03em;
+}
+
+#doi-ngu .team-card p {
+    display: none;
 }
 
 .stat-card {
@@ -445,6 +457,12 @@ footer {
     .partners-grid,
     .footer-grid {
         grid-template-columns: 1fr;
+    }
+    #doi-ngu .team-grid {
+        grid-template-columns: repeat(2, minmax(160px, 1fr));
+    }
+    #doi-ngu .team-card {
+        min-width: 0;
     }
     .topbar {
         flex-direction: column;

@@ -4,6 +4,7 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Khoa Công nghệ Thông tin và Bán dẫn | Trường Đại học Thái Bình Dương" />
+    <title><?php echo esc_html( get_bloginfo( 'name' ) ); ?></title>
     <link rel="icon" type="image/png" href="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Logo-TBD-icon-32x32.png' ); ?>" />
     <link rel="apple-touch-icon" href="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Logo-TBD-icon-32x32.png' ); ?>" />
     <?php wp_head(); ?>

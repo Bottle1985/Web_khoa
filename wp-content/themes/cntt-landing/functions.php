@@ -24,6 +24,8 @@ function ktqt_landing_enqueue_assets() {
 }
 add_action( 'wp_enqueue_scripts', 'ktqt_landing_enqueue_assets' );
 
+add_theme_support( 'title-tag' );
+
 function cntt_landing_body_classes( $classes ) {
     $classes[] = 'cntt-landing';
     return $classes;
