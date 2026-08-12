@@ -4,7 +4,7 @@ Theme URI: https://cntt.tbd.edu.vn/
 Author: Trường Đại học Thái Bình Dương
 Author URI: https://tbd.edu.vn/
 Description: Landing page theme cho Khoa Công nghệ thông tin và Bán dẫn.
-Version: 1.0
+Version: 1.0.1
 Requires PHP: 7.4
 Requires at least: 5.0
 Text Domain: cntt-landing
@@ -387,7 +387,11 @@ section + section {
 }
 
 #doi-ngu .team-card p {
-    display: none;
+    display: block;
+    margin: 10px 0 0;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.95rem;
+    line-height: 1.5;
 }
 
 .stat-card {
