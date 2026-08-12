@@ -112,14 +112,14 @@ get_header();
         <div class="team-grid">
             <article class="team-card">
                 <div class="avatar-wrapper">
-                    <img src="https://via.placeholder.com/260x260.png?text=GV+1" alt="ThS. Nguyễn Đăng Bắc">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Nguyen-Dang-Bac-scaled-280x280.jpg' ); ?>" alt="ThS. Nguyễn Đăng Bắc">
                 </div>
                 <h4>ThS. Nguyễn Đăng Bắc</h4>
                 <p>Trưởng khoa Khoa Công nghệ thông tin và Bán dẫn</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
-                    <img src="https://via.placeholder.com/260x260.png?text=GV+2" alt="ThS. Lê Hữu Tuấn">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Le-Huu-Tuan-280x280.webp' ); ?>" alt="ThS. Lê Hữu Tuấn">
                 </div>
                 <h4>ThS. Lê Hữu Tuấn</h4>
                 <p>Giảng viên cntt</p>
