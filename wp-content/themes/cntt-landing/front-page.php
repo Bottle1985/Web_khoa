@@ -126,21 +126,21 @@ get_header();
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
-                    <img src="https://via.placeholder.com/260x260.png?text=GV+3" alt="ThS. Nguyễn Văn Tự">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Nguyen-Van-Tu-280x280.jpg' ); ?>" alt="ThS. Nguyễn Văn Tự">
                 </div>
                 <h4>ThS. Nguyễn Văn Tự</h4>
                 <p>Giảng viên cntt</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
-                    <img src="https://via.placeholder.com/260x260.png?text=GV+4" alt="ThS. Nguyễn Khắc Huy">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/huy-280x280.jpg' ); ?>" alt="ThS. Nguyễn Khắc Huy">
                 </div>
                 <h4>ThS. Nguyễn Khắc Huy</h4>
                 <p>Giảng viên cntt</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
-                    <img src="https://via.placeholder.com/260x260.png?text=GV+5" alt="ThS. Phạm Xuân Bình">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Xuan-Binh-280x280.jpg' ); ?>" alt="ThS. Phạm Xuân Bình">
                 </div>
                 <h4>ThS. Phạm Xuân Bình</h4>
                 <p>Giảng viên cntt</p>

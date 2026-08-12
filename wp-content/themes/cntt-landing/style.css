@@ -315,8 +315,18 @@ section + section {
 }
 
 #doi-ngu {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
     background: linear-gradient(180deg, #0a247a 0%, #0b2d8c 100%);
     color: #fff;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#doi-ngu > * {
+    width: min(1140px, calc(100% - 32px));
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #doi-ngu .section-title,
