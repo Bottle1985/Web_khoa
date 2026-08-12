@@ -106,6 +106,48 @@ get_header();
         </div>
     </section>
 
+    <section id="doi-ngu">
+        <h2 class="section-title">Đội ngũ của chúng tôi</h2>
+        <p class="section-description">Khoa tự hào sở hữu đội ngũ giảng viên và chuyên gia xuất sắc. Được dẫn dắt bởi phương châm “Học từ trải nghiệm”, thầy cô không chỉ truyền kiến thức chuyên sâu mà còn chia sẻ bài học thực tiễn quý giá để sinh viên phát triển toàn diện.</p>
+        <div class="team-grid">
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="https://via.placeholder.com/260x260.png?text=GV+1" alt="ThS. Nguyễn Đăng Bắc">
+                </div>
+                <h4>ThS. Nguyễn Đăng Bắc</h4>
+                <p>Trưởng khoa Khoa Công nghệ thông tin và Bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="https://via.placeholder.com/260x260.png?text=GV+2" alt="ThS. Lê Hữu Tuấn">
+                </div>
+                <h4>ThS. Lê Hữu Tuấn</h4>
+                <p>Giảng viên cntt</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="https://via.placeholder.com/260x260.png?text=GV+3" alt="ThS. Nguyễn Văn Tự">
+                </div>
+                <h4>ThS. Nguyễn Văn Tự</h4>
+                <p>Giảng viên cntt</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="https://via.placeholder.com/260x260.png?text=GV+4" alt="ThS. Nguyễn Khắc Huy">
+                </div>
+                <h4>ThS. Nguyễn Khắc Huy</h4>
+                <p>Giảng viên cntt</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="https://via.placeholder.com/260x260.png?text=GV+5" alt="ThS. Phạm Xuân Bình">
+                </div>
+                <h4>ThS. Phạm Xuân Bình</h4>
+                <p>Giảng viên cntt</p>
+            </article>
+        </div>
+    </section>
+
     <section>
         <h2 class="section-title">Tại sao chọn TBD?</h2>
         <p class="section-description">Khoa chú trọng học tập tương tác, đào tạo song song chuyên môn và kỹ năng mềm thông qua các dự án thực tế cùng doanh nghiệp.</p>
@@ -142,10 +184,10 @@ get_header();
         <h2 class="section-title">Đối tác</h2>
         <p class="section-description">Khoa hợp tác cùng các doanh nghiệp lớn để đồng hành đào tạo, thực tập và tuyển dụng sinh viên.</p>
         <div class="partners-grid">
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/10/vietjet.jpg" alt="Vietjet" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/10/hdbank.jpg" alt="HDBank" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/10/sovico.jpg" alt="Sovico" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/11/acca2.jpg" alt="ACCA" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/vietjet.jpg' ); ?>" alt="Vietjet" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/hdbank.jpg' ); ?>" alt="HDBank" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/sovico.jpg' ); ?>" alt="Sovico" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/acca2.jpg' ); ?>" alt="ACCA" />
         </div>
     </section>
 </main>

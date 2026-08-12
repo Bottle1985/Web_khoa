@@ -91,10 +91,10 @@ get_header();
         <h2 class="section-title">Đối tác công nghệ</h2>
         <p class="section-description">Khoa hợp tác với các doanh nghiệp công nghệ, công ty phần mềm và nhà sản xuất vi mạch để tạo cơ hội thực tập và việc làm.</p>
         <div class="partners-grid">
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/10/vietjet.jpg" alt="Vietjet" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/10/hdbank.jpg" alt="HDBank" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2024/11/acca2.jpg" alt="ACCA" />
-            <img src="https://ktqt.tbd.edu.vn/wp-content/uploads/2025/01/Thiet-ke-chua-co-ten-9.png" alt="Đối tác CNTT" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/vietjet.jpg' ); ?>" alt="Vietjet" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/hdbank.jpg' ); ?>" alt="HDBank" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/acca2.jpg' ); ?>" alt="ACCA" />
+            <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/sovico.jpg' ); ?>" alt="Đối tác CNTT" />
         </div>
     </section>
 
