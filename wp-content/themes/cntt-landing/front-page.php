@@ -219,19 +219,29 @@ get_header();
         <p class="section-description">Cập nhật hoạt động, sự kiện và thông báo mới nhất của Khoa Công nghệ Thông tin và Bán dẫn.</p>
         <div class="card-list">
             <article class="news-card">
-                <time>22/07/2026</time>
-                <h4>Logistics Hàng không: Tiềm năng nghề nghiệp và cơ hội phát triển</h4>
-                <p>Giới thiệu chương trình đào tạo Logistics kết nối doanh nghiệp hàng không và xu hướng nghề nghiệp tương lai.</p>
+                <time>16/05/2026</time>
+                <h4><a href="https://tbd.edu.vn/tin-tuc/nhung-nganh-nghe-hot-trong-tuong-lai-2030" target="_blank" rel="noopener">Những ngành nghề hot trong tương lai 2030</a></h4>
+                <p>Khám phá các ngành nghề có triển vọng đến năm 2030 như trí tuệ nhân tạo, khoa học dữ liệu, CNTT và an ninh mạng, cùng những cơ hội phát triển dành cho nguồn nhân lực công nghệ.</p>
             </article>
             <article class="news-card">
-                <time>18/07/2026</time>
-                <h4>Sinh viên TBD nhận gần 3 tỷ đồng học bổng và 4.000 cơ hội thực tập</h4>
-                <p>Khoa Công nghệ Thông tin và Bán dẫn thúc đẩy hợp tác với doanh nghiệp để tạo cơ hội học tập và việc làm cho sinh viên.</p>
+                <time>12/05/2026</time>
+                <h4><a href="https://tbd.edu.vn/tin-tuc/cac-nganh-khoi-a00-de-kiem-viec-lam-co-hoi-cho-thi-sinh-tuyen-sinh-dai-hoc-thai-binh-duong" target="_blank" rel="noopener">Các ngành khối A00 dễ kiếm việc làm</a></h4>
+                <p>Giới thiệu các ngành học thuộc khối A00 có nhu cầu nhân lực cao, trong đó có CNTT, AI, an ninh mạng và khoa học dữ liệu, giúp thí sinh lựa chọn ngành học phù hợp với xu hướng việc làm.</p>
             </article>
             <article class="news-card">
-                <time>10/07/2026</time>
-                <h4>Kế toán doanh nghiệp: Học gì, thi khối nào và cơ hội nghề nghiệp</h4>
-                <p>Nội dung hướng dẫn chi tiết cho thí sinh chọn ngành Kế toán tại TBD và những kỹ năng cần thiết khi vào ngành.</p>
+                <time>19/03/2026</time>
+                <h4><a href="https://tbd.edu.vn/tin-tuc/chon-nganh-thong-minh-nhung-linh-vuc-dang-khat-nhan-luc-chat-luong-cao" target="_blank" rel="noopener">Chọn ngành thông minh: Những lĩnh vực đang “khát” nhân lực chất lượng cao</a></h4>
+                <p>Cập nhật xu hướng nhu cầu nhân lực trong các lĩnh vực công nghệ, đặc biệt là CNTT, dữ liệu và phát triển phần mềm, đồng thời gợi ý những cơ hội nghề nghiệp dành cho sinh viên.</p>
+            </article>
+            <article class="news-card">
+                <time>18/03/2026</time>
+                <h4><a href="https://tbd.edu.vn/tin-tuc/nganh-cong-nghe-thong-tin-tai-truong-dai-hoc-thai-binh-duong-hoc-thuc-chien-30-thoi-gian-tai-doanh-nghiep" target="_blank" rel="noopener">Ngành Công nghệ thông tin tại TBD: Học thực chiến 30% thời gian tại doanh nghiệp</a></h4>
+                <p>Giới thiệu chương trình đào tạo CNTT theo hướng thực tiễn, tăng cường trải nghiệm tại doanh nghiệp, giúp sinh viên áp dụng kiến thức vào công việc thực tế và nâng cao khả năng đáp ứng nhu cầu tuyển dụng.</p>
+            </article>
+            <article class="news-card">
+                <time>5/03/2026</time>
+                <h4><a href="https://tbd.edu.vn/tin-tuc/tuong-lai-lap-trinh-vien-trong-ky-nguyen-ai-co-hoi-nao-cho-sinh-vien-truong-dai-hoc-thai-binh-duong" target="_blank" rel="noopener">Tương lai Lập trình viên trong kỷ nguyên AI</a></h4>
+                <p>Phân tích những thay đổi của nghề lập trình trong thời đại AI và những kỹ năng sinh viên CNTT cần trang bị để thích nghi, khai thác AI hiệu quả và nắm bắt cơ hội nghề nghiệp.</p>
             </article>
         </div>
     </section>
