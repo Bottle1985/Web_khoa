@@ -122,28 +122,63 @@ get_header();
                     <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Le-Huu-Tuan-280x280.webp' ); ?>" alt="ThS. Lê Hữu Tuấn">
                 </div>
                 <h4>ThS. Lê Hữu Tuấn</h4>
-                <p>Giảng viên cntt</p>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
                     <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Nguyen-Van-Tu-280x280.jpg' ); ?>" alt="ThS. Nguyễn Văn Tự">
                 </div>
                 <h4>ThS. Nguyễn Văn Tự</h4>
-                <p>Giảng viên cntt</p>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
                     <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/huy-280x280.jpg' ); ?>" alt="ThS. Nguyễn Khắc Huy">
                 </div>
                 <h4>ThS. Nguyễn Khắc Huy</h4>
-                <p>Giảng viên cntt</p>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
             </article>
             <article class="team-card">
                 <div class="avatar-wrapper">
                     <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Xuan-Binh-280x280.jpg' ); ?>" alt="ThS. Phạm Xuân Bình">
                 </div>
                 <h4>ThS. Phạm Xuân Bình</h4>
-                <p>Giảng viên cntt</p>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/phan_thanh_son-280x280.jpg' ); ?>" alt="TS. Phan Thanh Sơn">
+                </div>
+                <h4>TS. Phan Thanh Sơn</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Trong-280x280.png' ); ?>" alt="TS. Nguyễn Hữu Trọng">
+                </div>
+                <h4>TS. Nguyễn Hữu Trọng</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Lap-280x280.jpeg' ); ?>" alt="TS. Nguyễn Trùng Lập">
+                </div>
+                <h4>TS. Nguyễn Trùng Lập</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Truong-Son-280x280.jpg' ); ?>" alt="TS. Đặng Trường Sơn">
+                </div>
+                <h4>TS. Đặng Trường Sơn</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Duc-Thuan-280x280.png' ); ?>" alt="TS. Nguyễn Đức Thuần">
+                </div>
+                <h4>TS. Nguyễn Đức Thuần</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
             </article>
         </div>
     </section>
