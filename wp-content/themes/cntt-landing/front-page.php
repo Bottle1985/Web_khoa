@@ -180,6 +180,27 @@ get_header();
                 <h4>TS. Nguyễn Đức Thuần</h4>
                 <p>Giảng viên khoa cntt và bán dẫn</p>
             </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Phung-Minh-Loc1-280x280.jpg' ); ?>" alt="TS. Phùng Minh Lộc">
+                </div>
+                <h4>TS. Phùng Minh Lộc</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Ho-Huu-Huy--280x280.jpg' ); ?>" alt="TS. Hồ Hữu Huy">
+                </div>
+                <h4>TS. Hồ Hữu Huy</h4>
+                <p>Giảng viên khoa cntt và bán dẫn</p>
+            </article>
+            <article class="team-card">
+                <div class="avatar-wrapper">
+                    <img src="<?php echo esc_url( get_template_directory_uri() . '/assets/img/Ho-Hoang-Thong-280x280.jpg' ); ?>" alt="Hồ Hoàng Thông">
+                </div>
+                <h4>Hồ Hoàng Thông</h4>
+                <p>Thư ký khoa</p>
+            </article>
         </div>
     </section>
 
